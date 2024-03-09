@@ -6,7 +6,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- I’m currently learning **OOP with C# for Unity and character rigging and animation with blender**
+- I’m currently learning **OOP with C# for Unity, character rigging and animation with blender**
 
 - I’m an Undergraduate at **Amerike**
 
