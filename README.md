@@ -1,12 +1,12 @@
 
 <h1 align="center">Hi 👋, I'm Edson Gutierrez</h1>
-<h3 align="center">Game developer and animator student</h3>
+<h3 align="center">Game developer, rigger and animator student</h3>
 
 <table align="center">
 <tr border="none">
 <td width="50%" align="left">
   
-- I’m currently learning **OOP with C# for Unity and character animation with blender**
+- I’m currently learning **OOP with C# for Unity and character rigging and animation with blender**
 
 - I’m an Undergraduate at **Amerike**
 
