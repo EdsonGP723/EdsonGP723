@@ -95,6 +95,11 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats (Expand to view) </b>
 
+<p align="center">
+	
+  ![snake gif](https://github.com/EdsonGP723/EdsonGP723/blob/output/github-snake-dark.svg)
+  
+</p>
 
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
@@ -126,7 +131,4 @@
     <a href="https://www.linkedin.com/in/edsongutierrezprado"><img alt="Linkedin" src="https://skillicons.dev/icons?i=linkedin&theme=dark"></a>
   &emsp;
     <a href="mailto:edsongp1007@gmail.com"><img alt="Gmail" src="https://skillicons.dev/icons?i=gmail&theme=dark"></a>
-</p>
-<p align="center">
-  ![snake gif](https://github.com/EdsonGP723/EdsonGP723/blob/output/github-snake-dark.svg)
 </p>
