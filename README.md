@@ -11,7 +11,7 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=EdsonGP723&theme=synthwave" alt="EdsonGP723"  /></p>
 
 
-## 🛠️ My Skills
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
 ### 👉 Programming languages
 
@@ -34,10 +34,6 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
   </a> 
-   &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
-  </a>
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
@@ -50,6 +46,10 @@
   <img alt="Django" src="https://img.shields.io/badge/Django-%23092E20?style=flat&logo=django">
   &emsp; 
   <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20_Boot-%236DB33F?style=flat&logo=springboot&logoColor=white">
+  &emsp;
+  <a href="https://getbootstrap.com" target="_blank"> 
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
+  </a>
 </p>
 
 ### 👉 Databases
@@ -93,7 +93,7 @@
 
 <br/>
 
-## 📊 Github Stats (Expand to View) 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats (Expand to view) </b>
 
 
 <details> 
@@ -120,7 +120,7 @@
 
 <br/>
 
-## 🙋‍♀️ Let's Connect
+## 🙋‍♂️ Let's Connect
 <p align="center">
   &emsp;
     <a href="https://www.linkedin.com/in/edsongutierrezprado"><img alt="Linkedin" src="https://skillicons.dev/icons?i=linkedin&theme=dark"></a>
