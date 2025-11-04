@@ -127,3 +127,6 @@
   &emsp;
     <a href="mailto:edsongp1007@gmail.com"><img alt="Gmail" src="https://skillicons.dev/icons?i=gmail&theme=dark"></a>
 </p>
+<p align="center">
+  ![snake gif](https://github.com/EdsonGP723/EdsonGP723/blob/output/github-snake-dark.svg)
+</p>
